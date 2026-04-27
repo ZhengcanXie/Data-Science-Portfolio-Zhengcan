@@ -2,7 +2,7 @@
 
 Welcome to my project portfolio. I am a Data Scientist specializing in Natural Language Processing (NLP), automated ETL pipelines, and document-centric AI solutions. 
 
-📄 **[Please see the attached PDF in this repository for full architecture diagrams, visual dashboards, and detailed project workflows.]**
+📄 **[Please click here to view the full PDF portfolio including architecture diagrams and visual dashboards.](Zhengcan_Xie_Clinical_Informatics_Portfolio_2026.pdf)**
 
 ## 📌 Core Competencies & Selected Projects
 
